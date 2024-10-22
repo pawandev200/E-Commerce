@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node backend/server.js",
+    "start": "node server.js",
     "dev": "nodemon backend/server.js"
   },
   "author": "Pawandev kumar",
