@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const AppState = (props) => {
     // const url = "http://localhost:3000/api"; // Base URL for API endpoints
-    const url = "https://e-commerce-backend-g7og.onrender.com/api";
+    const url = "https://e-commerce-server-z7o2.onrender.com/api";
     
   
     // State variables to manage application data
