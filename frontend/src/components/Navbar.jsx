@@ -4,7 +4,7 @@ import AppContext from "../context/AppContext";
 
 const Navbar = () => {
     // State to manage the search input value
-    const [searchTerm, setSearchTerm] = useState(" ");
+    const [searchTerm, setSearchTerm] = useState("");
     
     // Hook to navigate programmatically
     const navigate = useNavigate();
@@ -36,7 +36,7 @@ const Navbar = () => {
   const submitHandler = (e) => {
     e.preventDefault(); // Prevent the default form behavior
     navigate(`/product/search/${searchTerm}`); // Navigate to the search results page
-    setSearchTerm(" "); // Reset the search term
+    setSearchTerm(""); // Reset the search term
   };
 
   return (
