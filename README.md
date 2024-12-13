@@ -77,8 +77,7 @@ The E-Commerce application is a user-friendly platform designed to deliver a sea
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
+This project is licensed under the MIT License.
 ---
 
 🌟 Dive into a revolutionary shopping experience! Explore, shop, and enjoy with this state-of-the-art E-Commerce Application today! 🛒✨
